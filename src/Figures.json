@@ -1,0 +1,146 @@
+[
+  {
+    "id": 0,
+    "name": "Anguirus Neca",
+    "picture": "images/Anguirus.png",
+    "units": 12,
+    "price": 10,
+    "category": "Godzilla"
+  },
+  {
+    "id": 1,
+    "name": "Iron Man Marvel Legends",
+    "picture": "images/IronMan.png",
+    "units": 8,
+    "price": 5,
+    "category": "Marvel Legends"
+  },
+  {
+    "id": 2,
+    "name": "Captain America Legends",
+    "picture": "images/CaptainAmerica.png",
+    "units": 10,
+    "price": 4,
+    "category": "Marvel Legends"
+  },
+  {
+    "id": 3,
+    "name": "Thor Marvel Legends",
+    "picture": "images/Thor.png",
+    "units": 5,
+    "price": 3,
+    "category": "Marvel Legends"
+  },
+  {
+    "id": 4,
+    "name": "Hulk Marvel Legends",
+    "picture": "images/Hulk.png",
+    "units": 3,
+    "price": 1,
+    "category": "Marvel Legends"
+  },
+  {
+    "id": 5,
+    "name": "Luke Skywalker Black Series",
+    "picture": "images/LukeSkywalker.png",
+    "units": 7,
+    "price": 6,
+    "category": "Black Series"
+  },
+  {
+    "id": 6,
+    "name": "Darth Vader Black Series",
+    "picture": "images/DarthVader.png",
+    "units": 4,
+    "price": 10,
+    "category": "Black Series"
+  },
+  {
+    "id": 7,
+    "name": "Boba Fett Black Series",
+    "picture": "images/BobaFett.png",
+    "units": 9,
+    "price": 8,
+    "category": "Black Series"
+  },
+  {
+    "id": 8,
+    "name": "Godzilla Neca",
+    "picture": "images/Godzilla.png",
+    "units": 2,
+    "price": 1,
+    "category": "NECA"
+  },
+  {
+    "id": 9,
+    "name": "King Ghidorah Neca",
+    "picture": "images/KingGhidorah.png",
+    "units": 2,
+    "price": 16,
+    "category": "NECA"
+  },
+  {
+    "id": 10,
+    "name": "Mothra Neca",
+    "picture": "images/Mothra.png",
+    "units": 11,
+    "price": 9,
+    "category": "NECA"
+  },
+  {
+    "id": 11,
+    "name": "Gamera Neca",
+    "picture": "images/Gamera.png",
+    "units": 1,
+    "price": 10,
+    "category": "NECA"
+  },
+  {
+    "id": 12,
+    "name": "Godzilla Bandai",
+    "picture": "images/Godzilla_Bandai.png",
+    "units": 5,
+    "price": 6,
+    "category": "Bandai"
+  },
+  {
+    "id": 13,
+    "name": "Mechagodzilla Bandai",
+    "picture": "images/Mechagodzilla.png",
+    "units": 3,
+    "price": 4,
+    "category": "Bandai"
+  },
+  {
+    "id": 14,
+    "name": "King Kong Bandai",
+    "picture": "images/KingKong.png",
+    "units": 6,
+    "price": 5,
+    "category": "Bandai"
+  },
+  {
+    "id": 15,
+    "name": "Iron Man Lego",
+    "picture": "images/LEGO_IronMan.png",
+    "units": 4,
+    "price": 8,
+    "category": "LEGO"
+  },
+  {
+    "id": 16,
+    "name": "Millennium Falcon Lego",
+    "picture": "images/LEGO_MillenniumFalcon.png",
+    "units": 3,
+    "price": 20,
+    "category": "LEGO"
+  },
+  {
+    "id": 17,
+    "name": "Hogwarts Castle Lego",
+    "picture": "images/LEGO_HogwartsCastle.png",
+    "units": 2,
+    "price": 20,
+    "category": "LEGO"
+  }
+]

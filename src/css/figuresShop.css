@@ -1,0 +1,22 @@
+:root{
+    --bgMain:#ff7b00;
+    --bgOrangeButton: #ffbb00;
+    --textColor: white;
+}
+
+html,body{
+    background-color: var(--bgMain);
+}
+.slide-content-1{
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url('../images/header/Website-banner_collectibles.png');
+    background-size: cover;
+}
+
+.slide-content-2{
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgb(0, 0, 0)), url('../images/header/Website-banner_figures.png');
+    background-size: cover;
+}
+
+.btn-orange{
+    background-color: var(--bgOrangeButton);
+}
